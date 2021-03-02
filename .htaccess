@@ -1,0 +1,5 @@
+
+AuthUserFile "/home/tsujiworks/test-03x05.jp/htpasswd/olive/.htpasswd"
+AuthName "Member Site"
+AuthType BASIC
+require valid-user
